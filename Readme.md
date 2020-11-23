@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Dmitry Nogochev](https://up.htmlacademy.ru/adaptive/21/user/207183).
-* Наставник: `Неизвестно`.
+* Наставник: `Ногочёв Дмитрий`.
 
 ---
 
